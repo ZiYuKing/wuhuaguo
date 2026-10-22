@@ -31,12 +31,12 @@
 ### 手机端首页
 <img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/4a683824-49fe-4ee2-b2bc-8aea48b3d8e2" />
 <img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/fbcb2d03-10aa-455c-9a60-9403b26b8a44" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/d78eb760-734b-4021-8a71-ebfec831b10c" />
 <img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/11ed2be9-7cc0-4663-aa01-cf8d228ce2fd" />
 
 首页围绕快速发现内容设计，支持轮播推荐、继续观看、分类内容流和热播榜单入口。顶部提供搜索与扫码入口，底部使用模糊透明的 Liquid Glass 导航。
 
 ### 搜索、榜单与详情
-<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/d78eb760-734b-4021-8a71-ebfec831b10c" />
 <img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/bb59e285-1a95-4556-ba6b-7c64f6f948b1" />
 <img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/3e9c2186-9697-448e-8637-c1d00416a180" />
 <img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/66f3daa0-55c7-4d88-addf-4db730d15f9c" />
