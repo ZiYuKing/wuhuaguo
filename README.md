@@ -29,20 +29,33 @@
 ## 界面预览
 
 ### 手机端首页
-
-
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/4a683824-49fe-4ee2-b2bc-8aea48b3d8e2" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/fbcb2d03-10aa-455c-9a60-9403b26b8a44" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/11ed2be9-7cc0-4663-aa01-cf8d228ce2fd" />
 
 首页围绕快速发现内容设计，支持轮播推荐、继续观看、分类内容流和热播榜单入口。顶部提供搜索与扫码入口，底部使用模糊透明的 Liquid Glass 导航。
 
 ### 搜索、榜单与详情
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/d78eb760-734b-4021-8a71-ebfec831b10c" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/bb59e285-1a95-4556-ba6b-7c64f6f948b1" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/3e9c2186-9697-448e-8637-c1d00416a180" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/66f3daa0-55c7-4d88-addf-4db730d15f9c" />
 
 支持按短剧名称、演员、作者或题材搜索；榜单提供多个内容分类和分页浏览；详情页集中展示海报、简介、标签、集数、收藏状态、续播位置与下载入口。
 
 ### 播放器
+<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/1cfed3d8-7067-461b-9c85-959f7952b9bd" />
+<img width="421" height="936" alt="image" src="https://github.com/user-attachments/assets/17fb1b5c-bf3d-4a19-a670-a9d8d3cef556" />
+<img width="935" height="421" alt="image" src="https://github.com/user-attachments/assets/6030ca83-785f-4f75-8d59-e3e0964311bb" />
+<img width="935" height="421" alt="image" src="https://github.com/user-attachments/assets/7f3a6726-0434-4fcb-b820-0637712f27a8" />
+<img width="420" height="882" alt="image" src="https://github.com/user-attachments/assets/a63ea5f4-abe1-4b64-9392-9f41bc22220a" />
 
 播放器针对连续短剧观看进行了专门优化，支持上下滑切集、横竖屏切换、选集、清晰度、倍速、弹幕、收藏、下载、投屏和定时关闭。控制层会根据屏幕方向重排，减少对画面的遮挡。
 
 ### Android TV
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/73d6ef9a-2030-4f14-921d-f085ebed0866" />
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/d2a00d88-57c4-4318-98dc-b09e998701ee" />
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/f1fe4979-f399-4d0f-ac36-78f27cc9e4ad" />
 
 TV 端采用独立横屏界面，提供首页、搜索、榜单、我的和设置五个主要区域。所有操作均针对遥控器方向键、确认键和返回键设计，包含清晰的焦点反馈、默认焦点、跨区域导航和自动滚动定位。
 
